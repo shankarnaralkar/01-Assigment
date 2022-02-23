@@ -1,0 +1,5 @@
+INFO 2022-02-01 11:28:19,925 0 com.log.basic.TestLogging --- [main] From info 
+DEBUG 2022-02-01 11:28:19,929 4 com.log.basic.TestLogging --- [main] From debuge 
+FATAL 2022-02-01 11:28:19,929 4 com.log.basic.TestLogging --- [main] From fatal 
+ERROR 2022-02-01 11:28:19,929 4 com.log.basic.TestLogging --- [main] From error 
+WARN 2022-02-01 11:28:19,929 4 com.log.basic.TestLogging --- [main] From warn 
